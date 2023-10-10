@@ -145,10 +145,6 @@ button:focus,
         opacity: 0.8;
     }
 
-.button_secondary {
-    background-color: var(--secondary-color);
-    color: var(--black);
-}
 /* start grid fallback */
 .project-list__item {
     display: inline-block;
